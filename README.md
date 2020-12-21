@@ -1,10 +1,10 @@
 <h1 align="center">Code Institute Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://phantom82aj.github.io/milestone-one/)
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="assets/images/desktopview.png"></h2>
 
 ## User Experience (UX)
 
