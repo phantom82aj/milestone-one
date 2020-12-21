@@ -2,7 +2,7 @@
 
 [View the live project here.](https://phantom82aj.github.io/milestone-one/)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is a webpage for a car event promoter in the Southern California car scene. It has been is created to correctly function and be accessible on a range of devices, making it easy to navigate for potential clients and car clubs.
 
 <h2 align="center"><img src="assets/images/desktopview.png"></h2>
 
@@ -10,7 +10,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+    -   #### First Time Visitor Outcome
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
