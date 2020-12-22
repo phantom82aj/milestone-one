@@ -37,9 +37,11 @@ This is a webpage for a car event promoter in the Southern California car scene.
 
     -   Home Page Wireframe - [View](https://phantom82aj.github.io/milestone-one/index.html)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - [View](https://phantom82aj.github.io/milestone-one/)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - [View](https://phantom82aj.github.io/milestone-one/contact.html)
+
+     -  Past Events & Gallery Page Wireframe - [View](https://phantom82aj.github.io/milestone-one/Past-Events-&-Gallery.html)
 
 ## Features
 
