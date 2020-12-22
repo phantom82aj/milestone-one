@@ -144,9 +144,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On some mobile devices the logo pushes the size of screen out more than any of the other content on the page.
+    -   The flyer stalls in downloading occasionaly.
+-   On some mobile devices the text appears pushed further to one side more than the other.
 
 ## Deployment
 
