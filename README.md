@@ -26,16 +26,16 @@ This is a webpage for a car event promoter in the Southern California car scene.
         2. As a Frequent User, I want to check to see if there are any new events held or services provided for.
 
 -   ### Design
-    -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+    -   #### Color Scheme
+        -   The main colors used are black, maroon, grey, and white.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The Sans Serif is the main font used with Roboto as the fallback font in case for any reason the font isn't being imported into the site correctly. San-Serif is a clean font used frequently in design elements, so it is both attractive and easy to look at.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Imagery is the key element on the entire website. The large, background logo image is designed to stand out and capture the user's eye. It also has a simple but sleek appearance.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](https://phantom82aj.github.io/milestone-one/index.html)
 
     -   Mobile Wireframe - [View](https://github.com/)
 
