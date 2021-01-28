@@ -253,6 +253,11 @@ footer {
     margin-bottom: 15px;
 }
 
+.three-reasons-heading p {
+    color: #000000;
+    font-weight: bold;
+}
+
 /* ----------------------------------------Personal Info */
 
 .personal-info-item {
